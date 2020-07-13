@@ -1,4 +1,4 @@
-### Hi there 👋
+### Christian Tucker :wave:
 
 <!--
 **Tucker459/Tucker459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :speech_balloon: Bio
+Hi, I'm Christian! I'm currently a Cloud Solution Architect at IBM. Primarily focused on building Cloud Infrastructure for my amazing clients and business partners.  Super interested in building, securing, and monitoring infrastructure so that is where my focus has been lately. Geeking out on kubernetes currently :smirk: . 
+
+## :octopus: Currently Focused On
+:cloud: AWS 
+
+:space_invader: Kubernetes
+
+:snake: Python
+
+:deciduous_tree: Go 
+
+:black_joker: Terraform
+
+:wrench: Ansible
+
+## :mailbox: Get In Touch
+LinkedIn: [Christian's LinkedIn](https://www.linkedin.com/in/christiantucker1/)
