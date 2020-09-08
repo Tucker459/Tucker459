@@ -23,8 +23,6 @@ Hi, I'm Christian! I'm currently a Cloud Solution Architect at IBM. Primarily fo
 
 :space_invader: Kubernetes
 
-:snake: Python
-
 :deciduous_tree: Go 
 
 :black_joker: Terraform
