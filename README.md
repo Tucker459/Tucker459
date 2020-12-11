@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hi, I'm Christian! I'm currently a DevOps Engineer at IBM. Primarily focused on building cloud infrastructure for the Quantum team.  Super interested in building, securing, and monitoring infrastructure so that is where my focus has been lately. Geeking out on kubernetes currently :smirk: . 
 
 ## :octopus: Currently Focused On
-:cloud: AWS 
+:cloud: IBM Cloud 
 
 :space_invader: Kubernetes
 
