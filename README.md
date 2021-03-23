@@ -25,8 +25,6 @@ Hi, I'm Christian! I'm currently a DevOps Engineer at IBM. Primarily focused on 
 
 :deciduous_tree: Go 
 
-:snake: Python
-
 :black_joker: Terraform
 
 :wrench: Ansible
