@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## :speech_balloon: Bio
-Hi, I'm Christian! I'm currently a DevOps Engineer at IBM. Primarily focused on building cloud infrastructure for the Quantum team.  Super interested in building, securing, and monitoring infrastructure so that is where my focus has been lately. Geeking out on kubernetes currently :smirk: . 
+Hi, I'm Christian! I'm currently a DevOps Engineer at IBM. Primarily focused on building cloud infrastructure for the Quantum team.  Super interested in building, securing, and monitoring distributed systems so that is where my focus has been lately. Geeking out on kubernetes currently :smirk: . 
 
 ## :octopus: Currently Focused On
 :cloud: IBM Cloud 
