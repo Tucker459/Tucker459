@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## :speech_balloon: Bio
-Hi, I'm Christian! I'm currently a DevOps Engineer at IBM. Primarily focused on building cloud infrastructure for the Quantum team.  Super interested in building, securing, and monitoring distributed systems so that is where my focus has been lately. Geeking out on kubernetes currently :smirk: . 
+Hi, I'm Christian! I'm currently a Lead DevOps Engineer at Concourse Labs. Primarily focused on building cloud infrastructure and enhancing distrubted systems.  Super interested in building, securing, and monitoring distributed systems so that is where my focus has been lately. Geeking out on kubernetes currently :smirk: . 
 
 ## :octopus: Currently Focused On
-:cloud: IBM Cloud 
+:cloud: AWS 
 
 :space_invader: Kubernetes
 
-:deciduous_tree: Go 
+:deciduous_tree: Go (Rust Soon)
 
 :black_joker: Terraform
 
